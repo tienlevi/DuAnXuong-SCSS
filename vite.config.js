@@ -10,6 +10,7 @@ export default defineConfig({
         productdetail: resolve(__dirname, "./product-detail.html"),
         cart: resolve(__dirname, "./cart.html"),
         checkout: resolve(__dirname, "./checkout.html"),
+        login: resolve(__dirname, "./login.html"),
       },
     },
   },
